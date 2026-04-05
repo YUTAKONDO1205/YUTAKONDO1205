@@ -18,4 +18,3 @@
 - Python / C / C++
 - TensorFlow Lite / FFT解析
 - 組み込み開発 / センサデータ処理
-- 
