@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**YUTAKONDO1205/YUTAKONDO1205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 近藤悠太 (Kondo Yuta)
 
-Here are some ideas to get you started:
+電子情報工学専攻｜エッジAI・IoT開発
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 取り組み
+- Sony Spresenseを用いた異常検知システム
+- 振動・音響センサー×AIによる予知保全
+- ドローンによるインフラ損傷検知
+
+## 🚀 プロジェクト
+- anomaly-event-api：異常検知イベント通知API
+- edge-ai-anomaly-detection：エッジAI異常検知
+- drone-inspection-ai：ドローン×画像解析
+
+## 🧠 スキル
+- Python / C / C++
+- TensorFlow Lite / FFT解析
+- 組み込み開発 / センサデータ処理
+- 
